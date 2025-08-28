@@ -3,13 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lwray3&label=Profile%20views&color=0e75b6&style=flat" alt="lwray3" /> </p>
 
-- 🔭 I’m currently working on a **Stock Analysis Project**
+- 🔭 I’m currently working on a **Mental Health App using Flutter, SQLite**
 
-- 🌱 I’m currently learning **React, MongoDB**
 
-- 👯 I’m looking to collaborate on **DevOps projects**
 
-- 🤝 I’m looking for help with **robotics programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
